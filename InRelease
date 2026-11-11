@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Tualali OS
+Label: Tualali OS
+Suite: tualali
+Codename: tualali
+Architectures: all amd64
+Date: Wed, 11 Nov 2026 09:58:30 +0000
+Description: Pacotes do Tualali OS
+MD5Sum:
+ 637c90318f26eae4606a9c7db6fcd617 647 Packages
+ e3a891430b8d6d234b9e4c8c1fe17820 447 Packages.gz
+SHA256:
+ aae3caf80045ad5caac4d7673cbd37bc89e1462d2704fb264774d9929a609ba3 647 Packages
+ 62f260c4196b3bfdce497c116e255d51f401a1e503d04f5ea45c40152d2f9194 447 Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9g73/uC4nP4pA7+xTd/ymP1HmsAFAmr0PEYACgkQTd/ymP1H
+msCSPw//e3wlP4Dj0fxGvgwHZh9zBvlqsNFSO+q7l0tqFg80Vuk/ISJxUau8zdot
+Hc5YZVLMDLM27GBEUfOWKs9VINh37KG+y6L6qGb7J4gzwB4exzDADI/ZWsXg9Alq
+rMg4kBAMGSeGY1AZ8qEL2LDY+NrXG/byIx3SXYow+yTELZg62kSOdjwqyRIVx13a
+KGIyVsVjeF4UORn+9ck6Un86OvEhv+m5CeJPyXqhYalhgRE4fP0/iOlRYCt+v1iC
+ZUj/7pZUTJKEpw2HHfzU21Czj4O4a0Koe3g4BI3k690rYAtQ7JoyfYtq56Spyl5u
+24FjsJe/R8RoBPQ1GEVXXKyWZUp/jopKgR95HbP89wB1H8pw9tosEldgDbN8jquA
+vF857IBfqxLzNBbVt2Mc4QrQKV2Z9pyUzpV5kr4ZR0H4CQzoic7Gwzf/76kC/dfu
+pEiQPhLmG0F6Vtctf3lhN6T3egx9jd1OmknZkMixYpBy1eQjV+QidK9oz/wh+9Ju
+RWsuRjIw4Dx8H4e/1zXnOrBqSMNSUahAsqinkA6F3TbI97/OyJw2TuWHKqS/6RV4
+bj+NtfNUVpbd+fLzJ2wGRam/dFTpcfFjy4jXYkSMO4ayjsASg/q1r0VLfV/wTa4O
+RUyojtDGvRdCpk4e+vnrRft9wawXGz8eTnqvUB+4R2YQ46LcX0E=
+=ugv1
+-----END PGP SIGNATURE-----
