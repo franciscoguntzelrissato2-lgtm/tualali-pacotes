@@ -14,3 +14,19 @@ Size: 14528
 MD5sum: 38cbd89bc878b5757e33158625d11f0d
 SHA256: 01790e9c02f3dff1ea54b5d8b901c6e692d736a58fd9e0e6c4a48ad1e925e5f7
 
+Package: tualali-desktop
+Version: 0.1.0+202611111053
+Architecture: all
+Maintainer: Tualali OS <noreply@users.noreply.github.com>
+Installed-Size: 140
+Depends: bash, python3, python3-gi, gir1.2-gtk-3.0, librsvg2-bin, dconf-cli, curl
+Section: misc
+Priority: optional
+Description: Identidade, loja, atualizador e ajustes do Tualali OS
+ Visual GNOME do Tualali, Loja Tualali, atualizador, diagnostico,
+ ajustes de Wi-Fi Broadcom para Macs e integracao do instalador.
+Filename: pool/tualali-desktop_0.1.0+202611111053_all.deb
+Size: 14532
+MD5sum: f0ea6e26261041eba6ff0118c8abf25d
+SHA256: c0f56ffd738fe96a1901c96fe74127324c47a21ff244062e02481d0edf431953
+
