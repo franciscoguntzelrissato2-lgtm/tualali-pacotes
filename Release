@@ -3,11 +3,11 @@ Label: Tualali OS
 Suite: tualali
 Codename: tualali
 Architectures: all amd64
-Date: Thu, 12 Nov 2026 17:57:34 +0000
+Date: Thu, 12 Nov 2026 18:10:30 +0000
 Description: Pacotes do Tualali OS
 MD5Sum:
- 56e290c9c2505027f82de5f4825b630c 2400 Packages
- 05d63d4a391cc297aaf20da9fa5535d7 726 Packages.gz
+ 5fa640d7cf3094dd649d8c1e1eab8a9a 2400 Packages
+ 09e2920d3746217b55ca75b06fad468f 724 Packages.gz
 SHA256:
- 84a188e9c67e4888d0114c07c7a8849cddc885f0b7515326a77c0150ad7a7b7e 2400 Packages
- aeeb1de099bcd2619c1994314375aa4268942dc47c824b2676a534179523aff1 726 Packages.gz
+ 670ca711c8eb5b35fbc74eb64ac1b8f721406a6f6df61d2cad3ea65553072eb6 2400 Packages
+ 15452d272ab7bc4854e610f2cecafe21271a285b3163e50e81b67baa8307a110 724 Packages.gz
