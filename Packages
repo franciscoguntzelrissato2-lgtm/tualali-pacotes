@@ -1,20 +1,4 @@
 Package: tualali-desktop
-Version: 0.1.0+202611112211
-Architecture: all
-Maintainer: Tualali OS <noreply@users.noreply.github.com>
-Installed-Size: 156
-Depends: bash, python3, python3-gi, gir1.2-gtk-3.0, librsvg2-bin, dconf-cli, curl
-Section: misc
-Priority: optional
-Description: Identidade, loja, atualizador e ajustes do Tualali OS
- Visual GNOME do Tualali, Loja Tualali, atualizador, diagnostico,
- ajustes de Wi-Fi Broadcom para Macs e integracao do instalador.
-Filename: pool/tualali-desktop_0.1.0+202611112211_all.deb
-Size: 16192
-MD5sum: 7b373bad9997a7d047b1e6379666a16b
-SHA256: 20215cfdf904edcf69f326bd94be6a87ef46eb0e052db433c156f46b4de86a3c
-
-Package: tualali-desktop
 Version: 0.1.0+202611112248
 Architecture: all
 Maintainer: Tualali OS <noreply@users.noreply.github.com>
@@ -47,4 +31,21 @@ Filename: pool/tualali-desktop_0.1.0+202611112335_all.deb
 Size: 28204
 MD5sum: 2328f11c2859643b94c763967394171e
 SHA256: 7f2c18ba9e40f6d3ffee94c252834fc1c3733e83ea356764cb12415cc2507cc2
+
+Package: tualali-desktop
+Version: 0.1.0+202611120217
+Architecture: all
+Maintainer: Tualali OS <noreply@users.noreply.github.com>
+Installed-Size: 228
+Depends: bash, python3, python3-gi, gir1.2-gtk-3.0, librsvg2-bin, dconf-cli, curl, zenity, icoutils, gir1.2-webkit2-4.1, bluez
+Section: misc
+Priority: optional
+Description: Identidade, loja, atualizador e ajustes do Tualali OS
+ Visual GNOME do Tualali, Loja Tualali, atualizador, diagnostico,
+ Instalador de Pacotes, Empacotador Tualali (.exe para .deb com Wine),
+ ajustes de Wi-Fi Broadcom para Macs e integracao do instalador.
+Filename: pool/tualali-desktop_0.1.0+202611120217_all.deb
+Size: 28324
+MD5sum: f51dde7caa3f9053d9393ffee74f3266
+SHA256: 52a8612d4a1ba02d2a3d98c3f184358ef4b6161180ec63a4cfb25cb6a24a4867
 
