@@ -6,27 +6,27 @@ Label: Tualali OS
 Suite: tualali
 Codename: tualali
 Architectures: all amd64
-Date: Fri, 13 Nov 2026 00:13:49 +0000
+Date: Fri, 13 Nov 2026 18:09:23 +0000
 Description: Pacotes do Tualali OS
 MD5Sum:
- 101e1c9e54b1414550d75eb1ec79fda8 2659 Packages
- 621591cce843f0ccf787d1797d9a46d1 778 Packages.gz
+ 704a09ace9102669edc7571abf7cce04 2730 Packages
+ fa5e21568ae5612afaca7ede75d3520c 782 Packages.gz
 SHA256:
- 4b8df0aaf8bbc49cb2dba666aff7343e1996848090979aab471f1e59cbbd21cb 2659 Packages
- d6c5cfa644e7db77e3a7b626392c661345b3ed3c38e98880a9a2fe6b35b57adb 778 Packages.gz
+ ee755a21c6d18ecc03a4c6913d26364f92d607d4393f23daa819f19da4214cbb 2730 Packages
+ 397aa5fd48ab0ea76b3596ac89de39cb7465cc3a88cc1a524cc4edf7f30ca769 782 Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE9g73/uC4nP4pA7+xTd/ymP1HmsAFAmr2Vj0ACgkQTd/ymP1H
-msD7zg/8Cmdi3pT2ceSXP/Y2l/32wEGWWpBH+hR2ZkiMv6dmcjSoxszHZiYKwFMy
-5KbQHK0teh+NaKSEszCtVjxe0NHJoDLMFKRD0X2ouuqmzwBAHJ3TipmAnyJufKdn
-eyP7PF2Qa+XQC9n6Gpg8WgDxWVokfUWCFz6qFPgDUDjPTVrUheyEHArl7txiMk5w
-QiSKCxaGEstQI7m3SKHRdnVJrwhz1taYjaagvm3SqumdvtwzeWC2nqfN2tKymoJl
-ExM0b29GT4OIEgHX2DNvCL0Z2Xl02EvQCbPXH4R6HHZNjuFrZc6HVebz9SdCAkfB
-hZOG1ZmOcwkZCk/cErHvRLqdJHBwWHP/EUFKj1VQKuPYCJnstTwH7hzLVBZ0RvsT
-XziK4bHZuteqm1KXF19mqgdSHrUYJsEYQeWsbQ37QXRrqwB/zmHTbd9qer1/vjsK
-rHCYgPuo5fMkAp3boa/19UfkV0XJ47Xer43vZYHmT0bKzfo9E04+bY2oLUjT7InO
-ciCfKYhhU8off+kyEieU2BMhJI0dpW0R9GsCzDE0uzgc+a9lC7BXsrFKJVhsUpAU
-ma5h4JpCewsx/K1XN4uUWTq3YpC0L/W221XYT+l48XvdwHrvBoXInzfUNsA3rPci
-VLCRTDVBnhICqLysuduw74c1k+YXqUrziRPiOoE4oKQuWUEDeIs=
-=aOUh
+iQIzBAEBCgAdFiEE9g73/uC4nP4pA7+xTd/ymP1HmsAFAmr3UlMACgkQTd/ymP1H
+msCvWhAAjuZHO6dLSB0Xh8jJIKtqt23uJd0A3g2scjF2VeXc0WyKa4vzfT+OWq/o
+IbtPRV00vK8G5Fi4qh3/NfdVDqPCdTjFWo9PqeYLcnGNw4gKTTeP7sj2fu3CNyD2
+XfRrsCIF7tDeo/UwZ1hcwfIt21XOE8O1gggK8JBgq4JXG8q6d7A6IbTdbCJ0EaBa
+DM8PHgg7zUS/p8RMgsQlNo+I3her73gk/p4fWab1Z88jacQcMezE6F0Eqfcv86uS
+1EfgmpwubpHx/hpE6/h0HLWnMP9jLo5+sL3JyGhbg/AdxqZvvE+61ndOF5+FLtwU
+3KgAaol7onk5pbIdAuaROHv2TC4xUYzGjLWiHzG2rph+HXQXgU6GVj/QEhRt5Svs
+yeJYd3J0AgiiS8SFTOQVAB3dz9GW1XOctOkxJK5zz/b0fZ5TZvFnYhHXC4bqzWMW
+K3zzIHSWKQ9+t3e+tn7KNIkCKdf+ltfFTToJYsHIsasyccefW/jPi8KURO0d/GzB
+ra8nj9h7lcTTVzVy0em1AkmiTWJAZslSijyAfkV28jtK699XybAgoMd+lLx/zgc7
+29Cb6neWpI++yoDuaeHO+++1qOcsnNWIwMYMdYl+ndScWIB38aNFz3N15qtCkGVg
+zrSTTf/Gg/e40pdtj3jnRmaCk4k6DtqfSKR0U/HmUpsiXDm62Lg=
+=kCWt
 -----END PGP SIGNATURE-----
